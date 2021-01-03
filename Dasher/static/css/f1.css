@@ -1,0 +1,47 @@
+nav{
+	border:1px solid #bfcbde;
+	box-shadow: 5px 6px 4px #d3dbde;
+}
+b{
+	margin-right: 5px;
+}
+.nav1>a{
+	color:black;
+	text-decoration: none;
+}
+.tagger{
+	position: absolute;
+	right: 35%;
+}
+.lambda{
+	background-color: #b7e2ed;
+	color:#5ac1db;
+	border:none;
+}
+.table>thead>tr>th{
+	color:#c9d4d6;
+	border:none;
+	font-size: 11px;
+}
+.table{
+	border:1px solid #d5e3e6;
+	border-radius: 10px;
+}
+td{
+	font-size: 11px;
+}
+
+#col1{
+	border:1px solid #b2bfd4;
+	padding:20px;
+	margin-left: 10px;
+}
+
+#btncol>button{
+	width:100%;
+}
+.mybtn{
+	border:1px solid #dae1e3;
+	padding:5px;
+	border-radius: 2px;
+}
