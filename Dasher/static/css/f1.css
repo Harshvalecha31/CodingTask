@@ -18,6 +18,19 @@ b{
 	color:#5ac1db;
 	border:none;
 }
+
+.bushatchaiye{
+	background-color: blue;
+	color:orange;
+	border:none;
+}
+
+.kaalibushat{
+	color:orange;
+	text-decoration: none;
+	font-size: 11px;
+}
+
 .table>thead>tr>th{
 	color:#c9d4d6;
 	border:none;
